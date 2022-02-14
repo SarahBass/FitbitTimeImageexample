@@ -1,0 +1,75 @@
+
+
+.myLabel {
+  fill: azure;
+  letter-spacing: 5;
+  font-size: 55;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  opacity: 0.0; 
+  x: 42%;
+  y: 20%;
+  
+}
+
+.showLabel {
+  fill: yellow;
+  letter-spacing: 5;
+  font-size: 70;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  opacity: 0.7; 
+  x: 42%;
+  y: 20%;
+  
+}
+
+
+.labelyellow {
+  fill: yellow;
+  font-size: 17;
+  font-family: System-Bold;
+  text-length: 32;
+  opacity: 0.7;
+  text-anchor: middle;
+  x: 50%;
+  y: 27%;
+}
+
+
+.ampm {
+  width: 100%;
+  height: 100%;
+  x: -9%;
+}
+
+.hour {
+  width: 100%;
+  height: 100%;
+  x: -67%;
+  y: 4%;
+   
+}
+
+.minute10 {
+  width: 100%;
+  height: 100%;
+  x: 52%;
+  y: 4%
+}
+
+.minute1 {
+  width: 100%;
+  height: 100%;
+  x: 40%;
+  y: 4%
+}
+
+.colon {
+  width: 100%;
+  height: 100%;
+  x: 31%;
+  y:4%;
+}
