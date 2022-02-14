@@ -28,6 +28,7 @@ let monthtext = "month";
 //Update the clock every second 
 clock.granularity = "seconds";
 
+/*----------------------------START OF CLOCK-----------------------------------*/
 clock.ontick = (evt) => {
 
   let today = new Date();
@@ -72,6 +73,10 @@ clock.ontick = (evt) => {
     minutehand2.image = "blank.png";
     colon.image = "blank.png";
   }
+  });
+/*----------------------------END OF CLOCK----------------------------------*/
+  
+/*----------------------------START OF FUNCTIONS--------------------------------*/
   
   function updateScene() {
    
