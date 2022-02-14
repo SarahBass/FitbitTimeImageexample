@@ -1,0 +1,18 @@
+<svg>
+  
+
+  <!-- clock information set for 24 hour clock and DD MM YYYY-->
+  
+  <text id="myLabel" class="myLabel">
+  <text id="date" class= "labelyellow"/> 
+  
+   <!-- Images -->
+
+   <image id="colon"  class="colon" />
+   <image id="ampm"  class="ampm" />
+   <image id="hourhand"  class="hour" />
+   <image id="minutehand"  class="minute10" />
+   <image id="minutehand2"  class="minute" />
+   
+</text>
+</svg>
